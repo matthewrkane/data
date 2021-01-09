@@ -1,3 +1,3 @@
-task,category,months,size,cost,description
-UI/UX Build,Product,12,100,250000,you will need to hire an internal or third-party team of frontend engineers and designers to build all UI/UX, which must go through sternuous partner approvals, minumum of $100k in fees
-Compliance Officer,Legal,32,75,250000,you will need to have a compliance officer that can manage your fraud, AML, and other policies, minimum $100k per year.
+task;category;months;size;cost;description
+UI/UX Build;Product;12;100;250000;You will need to hire an internal or third-party team of frontend engineers and designers to build all UI/UX. This which must go through strenuous partner approvals, minumum of $100k in fees
+Compliance Officer;Legal;32;75;250000;you will need to have a compliance officer that can manage your fraud, AML, and other policies, minimum $100k per year.
