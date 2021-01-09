@@ -1,16 +1,3 @@
 task,category,months,size,cost,description
-Afghanistan,Asia,43.828,31889923,974.5803384,test
-Albania,Europe,76.423,3600523,5937.029526,test
-Algeria,Africa,72.301,33333216,6223.367465,test
-Angola,Africa,42.731,12420476,4797.231267,test
-Argentina,Americas,75.32,40301927,12779.37964,test
-Australia,Oceania,81.235,20434176,34435.36744,test
-Austria,Europe,79.829,8199783,36126.4927,test
-Bahrain,Asia,75.635,708573,29796.04834,test
-Bangladesh,Asia,64.062,150448339,1391.253792,test
-Belgium,Europe,79.441,10392226,33692.60508,test
-Benin,Africa,56.728,8078314,1441.284873,test
-Bolivia,Americas,65.554,9119152,3822.137084,test
-Bosnia and Herzegovina,Europe,74.852,4552198,7446.298803,test
-Botswana,Africa,50.728,1639131,12569.85177,test
-Brazil,Americas,72.39,190010647,9065.800825,test
+UI/UX Build,Product,12,100,250000,you will need to hire an internal or third-party team of frontend engineers and designers to build all UI/UX, which must go through sternuous partner approvals, minumum of $100k in fees
+Compliance Officer,Legal,32,75,250000,you will need to have a compliance officer that can manage your fraud, AML, and other policies, minimum $100k per year.
